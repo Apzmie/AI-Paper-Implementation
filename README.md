@@ -1,6 +1,6 @@
 # AI-Paper-Implementation
 
-This is for my study purpose to understand principles of neural networks.
+This is my journey to enter the AI world, growing as a professional.
 
 Codes are created with Chatgpt's help.
 
