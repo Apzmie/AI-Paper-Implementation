@@ -6,4 +6,4 @@ Codes are created with Chatgpt's help.
 
 I welcome all kinds of feedback on my project, even if it is negative.
 
-Any conversation - [Discussions](https://github.com/AI-Paper-Implementation/discussions)
+Any conversation - [Discussions](https://github.com/Apzmie/AI-Paper-Implementation/discussions)
