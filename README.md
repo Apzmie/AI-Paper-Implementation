@@ -1,6 +1,6 @@
 # AI-Paper-Implementation
 
-This is my journey into the artificial intelligence world to make science fiction a reality.
+This is my journey into the artificial intelligence world to be a professional.
 
 Codes are created with Chatgpt's help.
 
