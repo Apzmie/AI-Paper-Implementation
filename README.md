@@ -2,8 +2,10 @@
 
 This is my journey into the artificial intelligence world to be a professional.
 
-Codes are created with Chatgpt's help.
+It is just like my note-taking to understand the theoretical principles such as mathematics, not a fully completed code.
 
-As a beginner, I welcome all kinds of feedback on my project, whether positive or negative.
+The key parts are mostly implemented, not all parts of the paper.
+
+Codes are created with Chatgpt's help.
 
 Any conversation - [Discussions](https://github.com/Apzmie/AI-Paper-Implementation/discussions)
