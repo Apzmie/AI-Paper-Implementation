@@ -6,3 +6,6 @@
 
 ### 2016
 [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) - The method of learning deep neural networks
+
+### 2017
+[Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) - The game-changing architecture in natural language and even other fields
